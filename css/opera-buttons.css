@@ -1,0 +1,49 @@
+/*  Copyright 2012  Sergey Yakovlev  (email : sadhooklay@gmail.com)
+
+    This file is part of Opera Share Button.
+
+    Opera Share Button is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 3, as
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Opera Share Button. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+/* Paste your style for the Opera Share Button placeholder here */
+
+/* placeholder */
+div.opera-buttons {
+  height: 40px;
+  width: 100%;
+  position: relative;
+}
+
+/* buttons */
+div.opera-buttons a {
+  display: block;
+  float: right;
+  margin: 10px 0;
+  height: 20px;
+  width: 80px;
+}
+
+/* images */
+div.opera-buttons a img {
+  height: 100%;
+}
+
+/* share button */
+div.opera-buttons a.osb-share {
+  /* Put your style here */
+}
+
+/* my opera button */
+div.opera-buttons a.osb-page {
+  /* Put your style here */
+}
